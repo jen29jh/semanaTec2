@@ -19,4 +19,4 @@ Este es un ejemplo de cómo se usa Markdown. Lo usaremos para dar formato a nues
 
 ### Latex
 
-$\alpha = $\sum_{1}^{n}x^{2}$
+$\alpha = \sum_{1}^{n}x^{2}$
